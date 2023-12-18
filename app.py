@@ -106,8 +106,6 @@ def main():
             st.write(str(certainty1[0].item()*100) + '%')
             st.write('### Top 3 candidates')
             st.write(str(output1))
-            st.write('### Certainties')
-            st.write(str(certainty1*100))
 
     if choice == 'About':
         st.subheader("Digit Recognition App made with Streamlit by Bharadwaj")

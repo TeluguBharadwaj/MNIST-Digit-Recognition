@@ -6,7 +6,7 @@ streamlit==1.23.1
 streamlit-drawable-canvas
 matplotlib
 numpy
-PIL
+Pillow
 torch
-cv2
+opencv-python-headless
 torchvision

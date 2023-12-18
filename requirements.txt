@@ -4,7 +4,7 @@
 
 streamlit==1.23.1
 streamlit-drawable-canvas
-matplotlib.pyplot
+matplotlib
 numpy
 PIL
 torch

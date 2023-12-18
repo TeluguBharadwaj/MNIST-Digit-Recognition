@@ -4,10 +4,6 @@ Created on Mon Dec 18 20:11:21 2023
 
 @author: telug
 """
-import subprocess
-
-# Install streamlit_drawable_canvas
-subprocess.run(["pip", "install", "streamlit_drawable_canvas"])
 
 from streamlit_drawable_canvas import st_canvas
 import streamlit as st
